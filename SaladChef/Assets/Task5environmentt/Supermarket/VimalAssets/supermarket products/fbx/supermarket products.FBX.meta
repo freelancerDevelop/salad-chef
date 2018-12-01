@@ -1,0 +1,2565 @@
+fileFormatVersion: 2
+guid: 47d48d8825cec4dca93af6a307ecd783
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Ariel cleaner 031
+    100002: Ariel cleaner 057
+    100004: Ariel cleaner 189
+    100006: Ariel cleaner 190
+    100008: Ariel cleaner 191
+    100010: Ariel cleaner 192
+    100012: Ariel cleaner 193
+    100014: Ariel cleaner 194
+    100016: Ariel cleaner 195
+    100018: Ariel cleaner 196
+    100020: Ariel cleaner 197
+    100022: Ariel cleaner 198
+    100024: Ariel cleaner 199
+    100026: Ariel cleaner 200
+    100028: Ariel cleaner 201
+    100030: Ariel cleaner 202
+    100032: Ariel cleaner 203
+    100034: Ariel cleaner 204
+    100036: Ariel cleaner 205
+    100038: Ariel cleaner 206
+    100040: Ariel cleaner 207
+    100042: Ariel cleaner 208
+    100044: Ariel cleaner 209
+    100046: Ariel cleaner 210
+    100048: Ariel cleaner 211
+    100050: Ariel cleaner 212
+    100052: Ariel cleaner 213
+    100054: Ariel cleaner 214
+    100056: Ariel cleaner 215
+    100058: Ariel cleaner 216
+    100060: Ariel cleaner 217
+    100062: Ariel cleaner 218
+    100064: Ariel cleaner 219
+    100066: Ariel cleaner 220
+    100068: Ariel cleaner 221
+    100070: Ariel cleaner 222
+    100072: Ariel cleaner 223
+    100074: Ariel cleaner 224
+    100076: Ariel cleaner 225
+    100078: Ariel cleaner 226
+    100080: Ariel cleaner 227
+    100082: Ariel cleaner 228
+    100084: Ariel cleaner 229
+    100086: Ariel cleaner 230
+    100088: Ariel cleaner 231
+    100090: Ariel cleaner 232
+    100092: Ariel cleaner 233
+    100094: Ariel cleaner 234
+    100096: Ariel cleaner 235
+    100098: Ariel cleaner 236
+    100100: Ariel cleaner 237
+    100102: Ariel cleaner 238
+    100104: Ariel cleaner 239
+    100106: Ariel cleaner 240
+    100108: Ariel cleaner 241
+    100110: Ariel cleaner 242
+    100112: Ariel cleaner 243
+    100114: Ariel cleaner 244
+    100116: Ariel cleaner 245
+    100118: Ariel cleaner 246
+    100120: Ariel cleaner 247
+    100122: Ariel cleaner 248
+    100124: Ariel cleaner 249
+    100126: Ariel cleaner 250
+    100128: Ariel cleaner 251
+    100130: Ariel cleaner 252
+    100132: Ariel cleaner 253
+    100134: Ariel cleaner 254
+    100136: Ariel cleaner 255
+    100138: Ariel cleaner 256
+    100140: Ariel cleaner 257
+    100142: Ariel cleaner 258
+    100144: Ariel cleaner 259
+    100146: Ariel cleaner 260
+    100148: Ariel cleaner 261
+    100150: Ariel cleaner 262
+    100152: Ariel cleaner 263
+    100154: Ariel cleaner 264
+    100156: Ariel cleaner 265
+    100158: Ariel cleaner 266
+    100160: bottle cleaner 022
+    100162: bottle cleaner 044
+    100164: bottle cleaner 045
+    100166: bottle cleaner 046
+    100168: bottle cleaner 047
+    100170: bottle cleaner 048
+    100172: bottle cleaner 049
+    100174: bottle cleaner 050
+    100176: bottle cleaner 051
+    100178: bottle cleaner 052
+    100180: bottle cleaner 053
+    100182: bottle cleaner 054
+    100184: bottle cleaner 055
+    100186: bottle cleaner 056
+    100188: bottle cleaner 057
+    100190: bottle cleaner 058
+    100192: bottle cleaner 059
+    100194: bottle cleaner 060
+    100196: bottle cleaner 061
+    100198: bottle cleaner 062
+    100200: bottle cleaner 063
+    100202: bottle cleaner 064
+    100204: Box002
+    100206: Box109
+    100208: Box110
+    100210: Box111
+    100212: Box112
+    100214: Box113
+    100216: Box114
+    100218: Box115
+    100220: Box116
+    100222: Box117
+    100224: Box118
+    100226: Box119
+    100228: Box120
+    100230: Box121
+    100232: Box122
+    100234: Box123
+    100236: Box124
+    100238: Box125
+    100240: Box126
+    100242: Box127
+    100244: Box128
+    100246: Box129
+    100248: Box130
+    100250: Box131
+    100252: Box132
+    100254: Box133
+    100256: Box134
+    100258: Box135
+    100260: Box136
+    100262: Box137
+    100264: Box138
+    100266: Box139
+    100268: Box140
+    100270: Box141
+    100272: Box142
+    100274: Box143
+    100276: Box144
+    100278: Box145
+    100280: Box146
+    100282: Box147
+    100284: Box148
+    100286: Box149
+    100288: Box150
+    100290: Box151
+    100292: Box152
+    100294: Box153
+    100296: Box154
+    100298: Box155
+    100300: Box156
+    100302: Box157
+    100304: Box158
+    100306: Box159
+    100308: Box160
+    100310: cleaner001
+    100312: cleaner041
+    100314: cleaner042
+    100316: cleaner043
+    100318: cleaner044
+    100320: cleaner045
+    100322: cleaner046
+    100324: cleaner047
+    100326: cleaner048
+    100328: cleaner049
+    100330: cleaner050
+    100332: cleaner051
+    100334: cleaner052
+    100336: cleaner053
+    100338: cleaner054
+    100340: Cylinder044
+    100342: Cylinder045
+    100344: Cylinder088
+    100346: Cylinder089
+    100348: Cylinder090
+    100350: Cylinder091
+    100352: Cylinder092
+    100354: Cylinder093
+    100356: Cylinder094
+    100358: Cylinder095
+    100360: Cylinder096
+    100362: Cylinder097
+    100364: Cylinder098
+    100366: Cylinder099
+    100368: Cylinder100
+    100370: Cylinder101
+    100372: Cylinder102
+    100374: Cylinder103
+    100376: Cylinder104
+    100378: Cylinder105
+    100380: Cylinder106
+    100382: Cylinder107
+    100384: Cylinder108
+    100386: Cylinder109
+    100388: Cylinder110
+    100390: Cylinder111
+    100392: Cylinder112
+    100394: Cylinder113
+    100396: Cylinder114
+    100398: Cylinder115
+    100400: Cylinder116
+    100402: Cylinder117
+    100404: Cylinder118
+    100406: Cylinder119
+    100408: Cylinder120
+    100410: Cylinder121
+    100412: Cylinder122
+    100414: Cylinder123
+    100416: Cylinder124
+    100418: Cylinder125
+    100420: Cylinder126
+    100422: Cylinder127
+    100424: Cylinder128
+    100426: Cylinder129
+    100428: dettol p159
+    100430: dettol p160
+    100432: dettol p161
+    100434: dettol p162
+    100436: dettol p383
+    100438: dettol p384
+    100440: dettol p385
+    100442: dettol p386
+    100444: dettol p387
+    100446: dettol p388
+    100448: dettol p389
+    100450: dettol p390
+    100452: dettol p391
+    100454: dettol p392
+    100456: dettol p393
+    100458: dettol p394
+    100460: dettol p395
+    100462: dettol p396
+    100464: dettol p397
+    100466: dettol p398
+    100468: dettol p399
+    100470: dettol p400
+    100472: dettol p401
+    100474: dettol p402
+    100476: dettol p403
+    100478: dettol p404
+    100480: dettol p405
+    100482: dettol p406
+    100484: dettol p407
+    100486: dettol p408
+    100488: dettol p409
+    100490: dettol p410
+    100492: dettol p411
+    100494: dettol p412
+    100496: dettol p413
+    100498: dettol p414
+    100500: dettol p415
+    100502: dettol p416
+    100504: dettol p417
+    100506: dettol p418
+    100508: dettol p419
+    100510: dettol p420
+    100512: dettol p421
+    100514: dettol p422
+    100516: dettol p423
+    100518: dettol p424
+    100520: dettol p425
+    100522: dettol p426
+    100524: dettol p427
+    100526: dettol p428
+    100528: dettol p429
+    100530: dettol p430
+    100532: dettol p431
+    100534: dettol p432
+    100536: dettol p433
+    100538: dettol p434
+    100540: dettol p435
+    100542: dettol p436
+    100544: dettol p437
+    100546: dettol p438
+    100548: dettol p439
+    100550: dettol p440
+    100552: dettol p441
+    100554: dettol p442
+    100556: dettol p443
+    100558: dettol p444
+    100560: dettol p445
+    100562: dettol p446
+    100564: dettol p447
+    100566: dettol p448
+    100568: dettol p449
+    100570: dettol p450
+    100572: dettol p451
+    100574: dettol p452
+    100576: dettol p453
+    100578: dettol p454
+    100580: dettol p455
+    100582: dettol p456
+    100584: dettol p457
+    100586: dettol p458
+    100588: dettol p459
+    100590: dettol p460
+    100592: dettol p461
+    100594: dettol p462
+    100596: dettol p463
+    100598: dettol p464
+    100600: dettol p465
+    100602: dettol p466
+    100604: dettol p467
+    100606: dettol p468
+    100608: dettol p469
+    100610: dettol p470
+    100612: dettol p471
+    100614: dettol p472
+    100616: dettol p473
+    100618: dettol p474
+    100620: dettol p475
+    100622: dettol p476
+    100624: dettol p477
+    100626: dettol p478
+    100628: dettol p479
+    100630: dettol p480
+    100632: dettol p481
+    100634: dettol p482
+    100636: dettol p483
+    100638: dettol p484
+    100640: dettol p485
+    100642: dettol p486
+    100644: dettol p487
+    100646: dettol p488
+    100648: dettol p489
+    100650: dettol p490
+    100652: dettol p491
+    100654: dettol p492
+    100656: dettol p493
+    100658: dettol p494
+    100660: dettol p495
+    100662: dettol p496
+    100664: dettol p497
+    100666: dettol p498
+    100668: dettol p499
+    100670: dettol p500
+    100672: dettol p501
+    100674: dettol p502
+    100676: dettol p503
+    100678: dettol p504
+    100680: dettol p505
+    100682: dettol p506
+    100684: dettol p507
+    100686: dettol p508
+    100688: dettol p509
+    100690: dettol p510
+    100692: dettol040
+    100694: dettol095
+    100696: dettol096
+    100698: dettol097
+    100700: dettol098
+    100702: dettol099
+    100704: dettol100
+    100706: dettol101
+    100708: dettol102
+    100710: dettol103
+    100712: dettol104
+    100714: dettol105
+    100716: dettol106
+    100718: dettol107
+    100720: dettol108
+    100722: dettol109
+    100724: dettol110
+    100726: dettol111
+    100728: dettol112
+    100730: dettol113
+    100732: dettol114
+    100734: dettol115
+    100736: dettol116
+    100738: dettol117
+    100740: dettol118
+    100742: dettol119
+    100744: dettol120
+    100746: dettol121
+    100748: dettol122
+    100750: dettol123
+    100752: dettol124
+    100754: dettol125
+    100756: dettol126
+    100758: Group001
+    100760: Object001
+    100762: Object022
+    100764: Object023
+    100766: Object024
+    100768: Object025
+    100770: Object026
+    100772: Object027
+    100774: Object028
+    100776: Object029
+    100778: Object030
+    100780: Object031
+    100782: pack cleaner xx
+    100784: pack cleaner xx021
+    100786: pack cleaner xx022
+    100788: pack cleaner xx023
+    100790: pack cleaner xx024
+    100792: pack cleaner xx025
+    100794: pack cleaner xx026
+    100796: pack cleaner xx027
+    100798: pack cleaner xx028
+    100800: pack cleaner xx029
+    100802: pack cleaner xx030
+    100804: persil026
+    100806: persil026_MeshPart0
+    100808: persil026_MeshPart1
+    100810: persil071
+    100812: persil071_MeshPart0
+    100814: persil071_MeshPart1
+    100816: persil072
+    100818: persil072_MeshPart0
+    100820: persil072_MeshPart1
+    100822: persil073
+    100824: persil073_MeshPart0
+    100826: persil073_MeshPart1
+    100828: persil074
+    100830: persil074_MeshPart0
+    100832: persil074_MeshPart1
+    100834: persil075
+    100836: persil075_MeshPart0
+    100838: persil075_MeshPart1
+    100840: persil076
+    100842: persil076_MeshPart0
+    100844: persil076_MeshPart1
+    100846: persil077
+    100848: persil077_MeshPart0
+    100850: persil077_MeshPart1
+    100852: persil078
+    100854: persil078_MeshPart0
+    100856: persil078_MeshPart1
+    100858: persil079
+    100860: persil079_MeshPart0
+    100862: persil079_MeshPart1
+    100864: persil080
+    100866: persil080_MeshPart0
+    100868: persil080_MeshPart1
+    100870: persil081
+    100872: persil081_MeshPart0
+    100874: persil081_MeshPart1
+    100876: persil082
+    100878: persil082_MeshPart0
+    100880: persil082_MeshPart1
+    100882: persil083
+    100884: persil083_MeshPart0
+    100886: persil083_MeshPart1
+    100888: persil084
+    100890: persil084_MeshPart0
+    100892: persil084_MeshPart1
+    100894: persil085
+    100896: persil085_MeshPart0
+    100898: persil085_MeshPart1
+    100900: persil086
+    100902: persil086_MeshPart0
+    100904: persil086_MeshPart1
+    100906: persil087
+    100908: persil087_MeshPart0
+    100910: persil087_MeshPart1
+    100912: persil088
+    100914: persil088_MeshPart0
+    100916: persil088_MeshPart1
+    100918: persil089
+    100920: persil089_MeshPart0
+    100922: persil089_MeshPart1
+    100924: persil090
+    100926: persil090_MeshPart0
+    100928: persil090_MeshPart1
+    100930: persil091
+    100932: persil091_MeshPart0
+    100934: persil091_MeshPart1
+    100936: persil092
+    100938: persil092_MeshPart0
+    100940: persil092_MeshPart1
+    100942: persil093
+    100944: persil093_MeshPart0
+    100946: persil093_MeshPart1
+    100948: persil094
+    100950: persil094_MeshPart0
+    100952: persil094_MeshPart1
+    100954: persil095
+    100956: persil095_MeshPart0
+    100958: persil095_MeshPart1
+    100960: persil096
+    100962: persil096_MeshPart0
+    100964: persil096_MeshPart1
+    100966: persil097
+    100968: persil097_MeshPart0
+    100970: persil097_MeshPart1
+    100972: persil098
+    100974: persil098_MeshPart0
+    100976: persil098_MeshPart1
+    100978: shelves002
+    100980: Sphere043
+    100982: Sphere044
+    100984: Sphere087
+    100986: Sphere088
+    100988: Sphere089
+    100990: Sphere090
+    100992: Sphere091
+    100994: Sphere092
+    100996: Sphere093
+    100998: Sphere094
+    101000: Sphere095
+    101002: Sphere096
+    101004: Sphere097
+    101006: Sphere098
+    101008: Sphere099
+    101010: Sphere100
+    101012: Sphere101
+    101014: Sphere102
+    101016: Sphere103
+    101018: Sphere104
+    101020: Sphere105
+    101022: Sphere106
+    101024: Sphere107
+    101026: Sphere108
+    101028: Sphere109
+    101030: Sphere110
+    101032: Sphere111
+    101034: Sphere112
+    101036: Sphere113
+    101038: Sphere114
+    101040: Sphere115
+    101042: Sphere116
+    101044: Sphere117
+    101046: Sphere118
+    101048: Sphere119
+    101050: Sphere120
+    101052: Sphere121
+    101054: Sphere122
+    101056: Sphere123
+    101058: Sphere124
+    101060: Sphere125
+    101062: Sphere126
+    101064: Sphere127
+    101066: Sphere128
+    101068: //RootNode
+    400000: Ariel cleaner 031
+    400002: Ariel cleaner 057
+    400004: Ariel cleaner 189
+    400006: Ariel cleaner 190
+    400008: Ariel cleaner 191
+    400010: Ariel cleaner 192
+    400012: Ariel cleaner 193
+    400014: Ariel cleaner 194
+    400016: Ariel cleaner 195
+    400018: Ariel cleaner 196
+    400020: Ariel cleaner 197
+    400022: Ariel cleaner 198
+    400024: Ariel cleaner 199
+    400026: Ariel cleaner 200
+    400028: Ariel cleaner 201
+    400030: Ariel cleaner 202
+    400032: Ariel cleaner 203
+    400034: Ariel cleaner 204
+    400036: Ariel cleaner 205
+    400038: Ariel cleaner 206
+    400040: Ariel cleaner 207
+    400042: Ariel cleaner 208
+    400044: Ariel cleaner 209
+    400046: Ariel cleaner 210
+    400048: Ariel cleaner 211
+    400050: Ariel cleaner 212
+    400052: Ariel cleaner 213
+    400054: Ariel cleaner 214
+    400056: Ariel cleaner 215
+    400058: Ariel cleaner 216
+    400060: Ariel cleaner 217
+    400062: Ariel cleaner 218
+    400064: Ariel cleaner 219
+    400066: Ariel cleaner 220
+    400068: Ariel cleaner 221
+    400070: Ariel cleaner 222
+    400072: Ariel cleaner 223
+    400074: Ariel cleaner 224
+    400076: Ariel cleaner 225
+    400078: Ariel cleaner 226
+    400080: Ariel cleaner 227
+    400082: Ariel cleaner 228
+    400084: Ariel cleaner 229
+    400086: Ariel cleaner 230
+    400088: Ariel cleaner 231
+    400090: Ariel cleaner 232
+    400092: Ariel cleaner 233
+    400094: Ariel cleaner 234
+    400096: Ariel cleaner 235
+    400098: Ariel cleaner 236
+    400100: Ariel cleaner 237
+    400102: Ariel cleaner 238
+    400104: Ariel cleaner 239
+    400106: Ariel cleaner 240
+    400108: Ariel cleaner 241
+    400110: Ariel cleaner 242
+    400112: Ariel cleaner 243
+    400114: Ariel cleaner 244
+    400116: Ariel cleaner 245
+    400118: Ariel cleaner 246
+    400120: Ariel cleaner 247
+    400122: Ariel cleaner 248
+    400124: Ariel cleaner 249
+    400126: Ariel cleaner 250
+    400128: Ariel cleaner 251
+    400130: Ariel cleaner 252
+    400132: Ariel cleaner 253
+    400134: Ariel cleaner 254
+    400136: Ariel cleaner 255
+    400138: Ariel cleaner 256
+    400140: Ariel cleaner 257
+    400142: Ariel cleaner 258
+    400144: Ariel cleaner 259
+    400146: Ariel cleaner 260
+    400148: Ariel cleaner 261
+    400150: Ariel cleaner 262
+    400152: Ariel cleaner 263
+    400154: Ariel cleaner 264
+    400156: Ariel cleaner 265
+    400158: Ariel cleaner 266
+    400160: bottle cleaner 022
+    400162: bottle cleaner 044
+    400164: bottle cleaner 045
+    400166: bottle cleaner 046
+    400168: bottle cleaner 047
+    400170: bottle cleaner 048
+    400172: bottle cleaner 049
+    400174: bottle cleaner 050
+    400176: bottle cleaner 051
+    400178: bottle cleaner 052
+    400180: bottle cleaner 053
+    400182: bottle cleaner 054
+    400184: bottle cleaner 055
+    400186: bottle cleaner 056
+    400188: bottle cleaner 057
+    400190: bottle cleaner 058
+    400192: bottle cleaner 059
+    400194: bottle cleaner 060
+    400196: bottle cleaner 061
+    400198: bottle cleaner 062
+    400200: bottle cleaner 063
+    400202: bottle cleaner 064
+    400204: Box002
+    400206: Box109
+    400208: Box110
+    400210: Box111
+    400212: Box112
+    400214: Box113
+    400216: Box114
+    400218: Box115
+    400220: Box116
+    400222: Box117
+    400224: Box118
+    400226: Box119
+    400228: Box120
+    400230: Box121
+    400232: Box122
+    400234: Box123
+    400236: Box124
+    400238: Box125
+    400240: Box126
+    400242: Box127
+    400244: Box128
+    400246: Box129
+    400248: Box130
+    400250: Box131
+    400252: Box132
+    400254: Box133
+    400256: Box134
+    400258: Box135
+    400260: Box136
+    400262: Box137
+    400264: Box138
+    400266: Box139
+    400268: Box140
+    400270: Box141
+    400272: Box142
+    400274: Box143
+    400276: Box144
+    400278: Box145
+    400280: Box146
+    400282: Box147
+    400284: Box148
+    400286: Box149
+    400288: Box150
+    400290: Box151
+    400292: Box152
+    400294: Box153
+    400296: Box154
+    400298: Box155
+    400300: Box156
+    400302: Box157
+    400304: Box158
+    400306: Box159
+    400308: Box160
+    400310: cleaner001
+    400312: cleaner041
+    400314: cleaner042
+    400316: cleaner043
+    400318: cleaner044
+    400320: cleaner045
+    400322: cleaner046
+    400324: cleaner047
+    400326: cleaner048
+    400328: cleaner049
+    400330: cleaner050
+    400332: cleaner051
+    400334: cleaner052
+    400336: cleaner053
+    400338: cleaner054
+    400340: Cylinder044
+    400342: Cylinder045
+    400344: Cylinder088
+    400346: Cylinder089
+    400348: Cylinder090
+    400350: Cylinder091
+    400352: Cylinder092
+    400354: Cylinder093
+    400356: Cylinder094
+    400358: Cylinder095
+    400360: Cylinder096
+    400362: Cylinder097
+    400364: Cylinder098
+    400366: Cylinder099
+    400368: Cylinder100
+    400370: Cylinder101
+    400372: Cylinder102
+    400374: Cylinder103
+    400376: Cylinder104
+    400378: Cylinder105
+    400380: Cylinder106
+    400382: Cylinder107
+    400384: Cylinder108
+    400386: Cylinder109
+    400388: Cylinder110
+    400390: Cylinder111
+    400392: Cylinder112
+    400394: Cylinder113
+    400396: Cylinder114
+    400398: Cylinder115
+    400400: Cylinder116
+    400402: Cylinder117
+    400404: Cylinder118
+    400406: Cylinder119
+    400408: Cylinder120
+    400410: Cylinder121
+    400412: Cylinder122
+    400414: Cylinder123
+    400416: Cylinder124
+    400418: Cylinder125
+    400420: Cylinder126
+    400422: Cylinder127
+    400424: Cylinder128
+    400426: Cylinder129
+    400428: dettol p159
+    400430: dettol p160
+    400432: dettol p161
+    400434: dettol p162
+    400436: dettol p383
+    400438: dettol p384
+    400440: dettol p385
+    400442: dettol p386
+    400444: dettol p387
+    400446: dettol p388
+    400448: dettol p389
+    400450: dettol p390
+    400452: dettol p391
+    400454: dettol p392
+    400456: dettol p393
+    400458: dettol p394
+    400460: dettol p395
+    400462: dettol p396
+    400464: dettol p397
+    400466: dettol p398
+    400468: dettol p399
+    400470: dettol p400
+    400472: dettol p401
+    400474: dettol p402
+    400476: dettol p403
+    400478: dettol p404
+    400480: dettol p405
+    400482: dettol p406
+    400484: dettol p407
+    400486: dettol p408
+    400488: dettol p409
+    400490: dettol p410
+    400492: dettol p411
+    400494: dettol p412
+    400496: dettol p413
+    400498: dettol p414
+    400500: dettol p415
+    400502: dettol p416
+    400504: dettol p417
+    400506: dettol p418
+    400508: dettol p419
+    400510: dettol p420
+    400512: dettol p421
+    400514: dettol p422
+    400516: dettol p423
+    400518: dettol p424
+    400520: dettol p425
+    400522: dettol p426
+    400524: dettol p427
+    400526: dettol p428
+    400528: dettol p429
+    400530: dettol p430
+    400532: dettol p431
+    400534: dettol p432
+    400536: dettol p433
+    400538: dettol p434
+    400540: dettol p435
+    400542: dettol p436
+    400544: dettol p437
+    400546: dettol p438
+    400548: dettol p439
+    400550: dettol p440
+    400552: dettol p441
+    400554: dettol p442
+    400556: dettol p443
+    400558: dettol p444
+    400560: dettol p445
+    400562: dettol p446
+    400564: dettol p447
+    400566: dettol p448
+    400568: dettol p449
+    400570: dettol p450
+    400572: dettol p451
+    400574: dettol p452
+    400576: dettol p453
+    400578: dettol p454
+    400580: dettol p455
+    400582: dettol p456
+    400584: dettol p457
+    400586: dettol p458
+    400588: dettol p459
+    400590: dettol p460
+    400592: dettol p461
+    400594: dettol p462
+    400596: dettol p463
+    400598: dettol p464
+    400600: dettol p465
+    400602: dettol p466
+    400604: dettol p467
+    400606: dettol p468
+    400608: dettol p469
+    400610: dettol p470
+    400612: dettol p471
+    400614: dettol p472
+    400616: dettol p473
+    400618: dettol p474
+    400620: dettol p475
+    400622: dettol p476
+    400624: dettol p477
+    400626: dettol p478
+    400628: dettol p479
+    400630: dettol p480
+    400632: dettol p481
+    400634: dettol p482
+    400636: dettol p483
+    400638: dettol p484
+    400640: dettol p485
+    400642: dettol p486
+    400644: dettol p487
+    400646: dettol p488
+    400648: dettol p489
+    400650: dettol p490
+    400652: dettol p491
+    400654: dettol p492
+    400656: dettol p493
+    400658: dettol p494
+    400660: dettol p495
+    400662: dettol p496
+    400664: dettol p497
+    400666: dettol p498
+    400668: dettol p499
+    400670: dettol p500
+    400672: dettol p501
+    400674: dettol p502
+    400676: dettol p503
+    400678: dettol p504
+    400680: dettol p505
+    400682: dettol p506
+    400684: dettol p507
+    400686: dettol p508
+    400688: dettol p509
+    400690: dettol p510
+    400692: dettol040
+    400694: dettol095
+    400696: dettol096
+    400698: dettol097
+    400700: dettol098
+    400702: dettol099
+    400704: dettol100
+    400706: dettol101
+    400708: dettol102
+    400710: dettol103
+    400712: dettol104
+    400714: dettol105
+    400716: dettol106
+    400718: dettol107
+    400720: dettol108
+    400722: dettol109
+    400724: dettol110
+    400726: dettol111
+    400728: dettol112
+    400730: dettol113
+    400732: dettol114
+    400734: dettol115
+    400736: dettol116
+    400738: dettol117
+    400740: dettol118
+    400742: dettol119
+    400744: dettol120
+    400746: dettol121
+    400748: dettol122
+    400750: dettol123
+    400752: dettol124
+    400754: dettol125
+    400756: dettol126
+    400758: Group001
+    400760: Object001
+    400762: Object022
+    400764: Object023
+    400766: Object024
+    400768: Object025
+    400770: Object026
+    400772: Object027
+    400774: Object028
+    400776: Object029
+    400778: Object030
+    400780: Object031
+    400782: pack cleaner xx
+    400784: pack cleaner xx021
+    400786: pack cleaner xx022
+    400788: pack cleaner xx023
+    400790: pack cleaner xx024
+    400792: pack cleaner xx025
+    400794: pack cleaner xx026
+    400796: pack cleaner xx027
+    400798: pack cleaner xx028
+    400800: pack cleaner xx029
+    400802: pack cleaner xx030
+    400804: persil026
+    400806: persil026_MeshPart0
+    400808: persil026_MeshPart1
+    400810: persil071
+    400812: persil071_MeshPart0
+    400814: persil071_MeshPart1
+    400816: persil072
+    400818: persil072_MeshPart0
+    400820: persil072_MeshPart1
+    400822: persil073
+    400824: persil073_MeshPart0
+    400826: persil073_MeshPart1
+    400828: persil074
+    400830: persil074_MeshPart0
+    400832: persil074_MeshPart1
+    400834: persil075
+    400836: persil075_MeshPart0
+    400838: persil075_MeshPart1
+    400840: persil076
+    400842: persil076_MeshPart0
+    400844: persil076_MeshPart1
+    400846: persil077
+    400848: persil077_MeshPart0
+    400850: persil077_MeshPart1
+    400852: persil078
+    400854: persil078_MeshPart0
+    400856: persil078_MeshPart1
+    400858: persil079
+    400860: persil079_MeshPart0
+    400862: persil079_MeshPart1
+    400864: persil080
+    400866: persil080_MeshPart0
+    400868: persil080_MeshPart1
+    400870: persil081
+    400872: persil081_MeshPart0
+    400874: persil081_MeshPart1
+    400876: persil082
+    400878: persil082_MeshPart0
+    400880: persil082_MeshPart1
+    400882: persil083
+    400884: persil083_MeshPart0
+    400886: persil083_MeshPart1
+    400888: persil084
+    400890: persil084_MeshPart0
+    400892: persil084_MeshPart1
+    400894: persil085
+    400896: persil085_MeshPart0
+    400898: persil085_MeshPart1
+    400900: persil086
+    400902: persil086_MeshPart0
+    400904: persil086_MeshPart1
+    400906: persil087
+    400908: persil087_MeshPart0
+    400910: persil087_MeshPart1
+    400912: persil088
+    400914: persil088_MeshPart0
+    400916: persil088_MeshPart1
+    400918: persil089
+    400920: persil089_MeshPart0
+    400922: persil089_MeshPart1
+    400924: persil090
+    400926: persil090_MeshPart0
+    400928: persil090_MeshPart1
+    400930: persil091
+    400932: persil091_MeshPart0
+    400934: persil091_MeshPart1
+    400936: persil092
+    400938: persil092_MeshPart0
+    400940: persil092_MeshPart1
+    400942: persil093
+    400944: persil093_MeshPart0
+    400946: persil093_MeshPart1
+    400948: persil094
+    400950: persil094_MeshPart0
+    400952: persil094_MeshPart1
+    400954: persil095
+    400956: persil095_MeshPart0
+    400958: persil095_MeshPart1
+    400960: persil096
+    400962: persil096_MeshPart0
+    400964: persil096_MeshPart1
+    400966: persil097
+    400968: persil097_MeshPart0
+    400970: persil097_MeshPart1
+    400972: persil098
+    400974: persil098_MeshPart0
+    400976: persil098_MeshPart1
+    400978: shelves002
+    400980: Sphere043
+    400982: Sphere044
+    400984: Sphere087
+    400986: Sphere088
+    400988: Sphere089
+    400990: Sphere090
+    400992: Sphere091
+    400994: Sphere092
+    400996: Sphere093
+    400998: Sphere094
+    401000: Sphere095
+    401002: Sphere096
+    401004: Sphere097
+    401006: Sphere098
+    401008: Sphere099
+    401010: Sphere100
+    401012: Sphere101
+    401014: Sphere102
+    401016: Sphere103
+    401018: Sphere104
+    401020: Sphere105
+    401022: Sphere106
+    401024: Sphere107
+    401026: Sphere108
+    401028: Sphere109
+    401030: Sphere110
+    401032: Sphere111
+    401034: Sphere112
+    401036: Sphere113
+    401038: Sphere114
+    401040: Sphere115
+    401042: Sphere116
+    401044: Sphere117
+    401046: Sphere118
+    401048: Sphere119
+    401050: Sphere120
+    401052: Sphere121
+    401054: Sphere122
+    401056: Sphere123
+    401058: Sphere124
+    401060: Sphere125
+    401062: Sphere126
+    401064: Sphere127
+    401066: Sphere128
+    401068: //RootNode
+    2300000: Ariel cleaner 031
+    2300002: Ariel cleaner 057
+    2300004: Ariel cleaner 189
+    2300006: Ariel cleaner 190
+    2300008: Ariel cleaner 191
+    2300010: Ariel cleaner 192
+    2300012: Ariel cleaner 193
+    2300014: Ariel cleaner 194
+    2300016: Ariel cleaner 195
+    2300018: Ariel cleaner 196
+    2300020: Ariel cleaner 197
+    2300022: Ariel cleaner 198
+    2300024: Ariel cleaner 199
+    2300026: Ariel cleaner 200
+    2300028: Ariel cleaner 201
+    2300030: Ariel cleaner 202
+    2300032: Ariel cleaner 203
+    2300034: Ariel cleaner 204
+    2300036: Ariel cleaner 205
+    2300038: Ariel cleaner 206
+    2300040: Ariel cleaner 207
+    2300042: Ariel cleaner 208
+    2300044: Ariel cleaner 209
+    2300046: Ariel cleaner 210
+    2300048: Ariel cleaner 211
+    2300050: Ariel cleaner 212
+    2300052: Ariel cleaner 213
+    2300054: Ariel cleaner 214
+    2300056: Ariel cleaner 215
+    2300058: Ariel cleaner 216
+    2300060: Ariel cleaner 217
+    2300062: Ariel cleaner 218
+    2300064: Ariel cleaner 219
+    2300066: Ariel cleaner 220
+    2300068: Ariel cleaner 221
+    2300070: Ariel cleaner 222
+    2300072: Ariel cleaner 223
+    2300074: Ariel cleaner 224
+    2300076: Ariel cleaner 225
+    2300078: Ariel cleaner 226
+    2300080: Ariel cleaner 227
+    2300082: Ariel cleaner 228
+    2300084: Ariel cleaner 229
+    2300086: Ariel cleaner 230
+    2300088: Ariel cleaner 231
+    2300090: Ariel cleaner 232
+    2300092: Ariel cleaner 233
+    2300094: Ariel cleaner 234
+    2300096: Ariel cleaner 235
+    2300098: Ariel cleaner 236
+    2300100: Ariel cleaner 237
+    2300102: Ariel cleaner 238
+    2300104: Ariel cleaner 239
+    2300106: Ariel cleaner 240
+    2300108: Ariel cleaner 241
+    2300110: Ariel cleaner 242
+    2300112: Ariel cleaner 243
+    2300114: Ariel cleaner 244
+    2300116: Ariel cleaner 245
+    2300118: Ariel cleaner 246
+    2300120: Ariel cleaner 247
+    2300122: Ariel cleaner 248
+    2300124: Ariel cleaner 249
+    2300126: Ariel cleaner 250
+    2300128: Ariel cleaner 251
+    2300130: Ariel cleaner 252
+    2300132: Ariel cleaner 253
+    2300134: Ariel cleaner 254
+    2300136: Ariel cleaner 255
+    2300138: Ariel cleaner 256
+    2300140: Ariel cleaner 257
+    2300142: Ariel cleaner 258
+    2300144: Ariel cleaner 259
+    2300146: Ariel cleaner 260
+    2300148: Ariel cleaner 261
+    2300150: Ariel cleaner 262
+    2300152: Ariel cleaner 263
+    2300154: Ariel cleaner 264
+    2300156: Ariel cleaner 265
+    2300158: Ariel cleaner 266
+    2300160: Box002
+    2300162: Box109
+    2300164: Box110
+    2300166: Box111
+    2300168: Box112
+    2300170: Box113
+    2300172: Box114
+    2300174: Box115
+    2300176: Box116
+    2300178: Box117
+    2300180: Box118
+    2300182: Box119
+    2300184: Box120
+    2300186: Box121
+    2300188: Box122
+    2300190: Box123
+    2300192: Box124
+    2300194: Box125
+    2300196: Box126
+    2300198: Box127
+    2300200: Box128
+    2300202: Box129
+    2300204: Box130
+    2300206: Box131
+    2300208: Box132
+    2300210: Box133
+    2300212: Box134
+    2300214: Box135
+    2300216: Box136
+    2300218: Box137
+    2300220: Box138
+    2300222: Box139
+    2300224: Box140
+    2300226: Box141
+    2300228: Box142
+    2300230: Box143
+    2300232: Box144
+    2300234: Box145
+    2300236: Box146
+    2300238: Box147
+    2300240: Box148
+    2300242: Box149
+    2300244: Box150
+    2300246: Box151
+    2300248: Box152
+    2300250: Box153
+    2300252: Box154
+    2300254: Box155
+    2300256: Box156
+    2300258: Box157
+    2300260: Box158
+    2300262: Box159
+    2300264: Box160
+    2300266: cleaner001
+    2300268: cleaner041
+    2300270: cleaner042
+    2300272: cleaner043
+    2300274: cleaner044
+    2300276: cleaner045
+    2300278: cleaner046
+    2300280: cleaner047
+    2300282: cleaner048
+    2300284: cleaner049
+    2300286: cleaner050
+    2300288: cleaner051
+    2300290: cleaner052
+    2300292: cleaner053
+    2300294: cleaner054
+    2300296: Cylinder044
+    2300298: Cylinder045
+    2300300: Cylinder088
+    2300302: Cylinder089
+    2300304: Cylinder090
+    2300306: Cylinder091
+    2300308: Cylinder092
+    2300310: Cylinder093
+    2300312: Cylinder094
+    2300314: Cylinder095
+    2300316: Cylinder096
+    2300318: Cylinder097
+    2300320: Cylinder098
+    2300322: Cylinder099
+    2300324: Cylinder100
+    2300326: Cylinder101
+    2300328: Cylinder102
+    2300330: Cylinder103
+    2300332: Cylinder104
+    2300334: Cylinder105
+    2300336: Cylinder106
+    2300338: Cylinder107
+    2300340: Cylinder108
+    2300342: Cylinder109
+    2300344: Cylinder110
+    2300346: Cylinder111
+    2300348: Cylinder112
+    2300350: Cylinder113
+    2300352: Cylinder114
+    2300354: Cylinder115
+    2300356: Cylinder116
+    2300358: Cylinder117
+    2300360: Cylinder118
+    2300362: Cylinder119
+    2300364: Cylinder120
+    2300366: Cylinder121
+    2300368: Cylinder122
+    2300370: Cylinder123
+    2300372: Cylinder124
+    2300374: Cylinder125
+    2300376: Cylinder126
+    2300378: Cylinder127
+    2300380: Cylinder128
+    2300382: Cylinder129
+    2300384: dettol p159
+    2300386: dettol p160
+    2300388: dettol p161
+    2300390: dettol p162
+    2300392: dettol p383
+    2300394: dettol p384
+    2300396: dettol p385
+    2300398: dettol p386
+    2300400: dettol p387
+    2300402: dettol p388
+    2300404: dettol p389
+    2300406: dettol p390
+    2300408: dettol p391
+    2300410: dettol p392
+    2300412: dettol p393
+    2300414: dettol p394
+    2300416: dettol p395
+    2300418: dettol p396
+    2300420: dettol p397
+    2300422: dettol p398
+    2300424: dettol p399
+    2300426: dettol p400
+    2300428: dettol p401
+    2300430: dettol p402
+    2300432: dettol p403
+    2300434: dettol p404
+    2300436: dettol p405
+    2300438: dettol p406
+    2300440: dettol p407
+    2300442: dettol p408
+    2300444: dettol p409
+    2300446: dettol p410
+    2300448: dettol p411
+    2300450: dettol p412
+    2300452: dettol p413
+    2300454: dettol p414
+    2300456: dettol p415
+    2300458: dettol p416
+    2300460: dettol p417
+    2300462: dettol p418
+    2300464: dettol p419
+    2300466: dettol p420
+    2300468: dettol p421
+    2300470: dettol p422
+    2300472: dettol p423
+    2300474: dettol p424
+    2300476: dettol p425
+    2300478: dettol p426
+    2300480: dettol p427
+    2300482: dettol p428
+    2300484: dettol p429
+    2300486: dettol p430
+    2300488: dettol p431
+    2300490: dettol p432
+    2300492: dettol p433
+    2300494: dettol p434
+    2300496: dettol p435
+    2300498: dettol p436
+    2300500: dettol p437
+    2300502: dettol p438
+    2300504: dettol p439
+    2300506: dettol p440
+    2300508: dettol p441
+    2300510: dettol p442
+    2300512: dettol p443
+    2300514: dettol p444
+    2300516: dettol p445
+    2300518: dettol p446
+    2300520: dettol p447
+    2300522: dettol p448
+    2300524: dettol p449
+    2300526: dettol p450
+    2300528: dettol p451
+    2300530: dettol p452
+    2300532: dettol p453
+    2300534: dettol p454
+    2300536: dettol p455
+    2300538: dettol p456
+    2300540: dettol p457
+    2300542: dettol p458
+    2300544: dettol p459
+    2300546: dettol p460
+    2300548: dettol p461
+    2300550: dettol p462
+    2300552: dettol p463
+    2300554: dettol p464
+    2300556: dettol p465
+    2300558: dettol p466
+    2300560: dettol p467
+    2300562: dettol p468
+    2300564: dettol p469
+    2300566: dettol p470
+    2300568: dettol p471
+    2300570: dettol p472
+    2300572: dettol p473
+    2300574: dettol p474
+    2300576: dettol p475
+    2300578: dettol p476
+    2300580: dettol p477
+    2300582: dettol p478
+    2300584: dettol p479
+    2300586: dettol p480
+    2300588: dettol p481
+    2300590: dettol p482
+    2300592: dettol p483
+    2300594: dettol p484
+    2300596: dettol p485
+    2300598: dettol p486
+    2300600: dettol p487
+    2300602: dettol p488
+    2300604: dettol p489
+    2300606: dettol p490
+    2300608: dettol p491
+    2300610: dettol p492
+    2300612: dettol p493
+    2300614: dettol p494
+    2300616: dettol p495
+    2300618: dettol p496
+    2300620: dettol p497
+    2300622: dettol p498
+    2300624: dettol p499
+    2300626: dettol p500
+    2300628: dettol p501
+    2300630: dettol p502
+    2300632: dettol p503
+    2300634: dettol p504
+    2300636: dettol p505
+    2300638: dettol p506
+    2300640: dettol p507
+    2300642: dettol p508
+    2300644: dettol p509
+    2300646: dettol p510
+    2300648: Object001
+    2300650: Object022
+    2300652: Object023
+    2300654: Object024
+    2300656: Object025
+    2300658: Object026
+    2300660: Object027
+    2300662: Object028
+    2300664: Object029
+    2300666: Object030
+    2300668: Object031
+    2300670: persil026_MeshPart0
+    2300672: persil026_MeshPart1
+    2300674: persil071_MeshPart0
+    2300676: persil071_MeshPart1
+    2300678: persil072_MeshPart0
+    2300680: persil072_MeshPart1
+    2300682: persil073_MeshPart0
+    2300684: persil073_MeshPart1
+    2300686: persil074_MeshPart0
+    2300688: persil074_MeshPart1
+    2300690: persil075_MeshPart0
+    2300692: persil075_MeshPart1
+    2300694: persil076_MeshPart0
+    2300696: persil076_MeshPart1
+    2300698: persil077_MeshPart0
+    2300700: persil077_MeshPart1
+    2300702: persil078_MeshPart0
+    2300704: persil078_MeshPart1
+    2300706: persil079_MeshPart0
+    2300708: persil079_MeshPart1
+    2300710: persil080_MeshPart0
+    2300712: persil080_MeshPart1
+    2300714: persil081_MeshPart0
+    2300716: persil081_MeshPart1
+    2300718: persil082_MeshPart0
+    2300720: persil082_MeshPart1
+    2300722: persil083_MeshPart0
+    2300724: persil083_MeshPart1
+    2300726: persil084_MeshPart0
+    2300728: persil084_MeshPart1
+    2300730: persil085_MeshPart0
+    2300732: persil085_MeshPart1
+    2300734: persil086_MeshPart0
+    2300736: persil086_MeshPart1
+    2300738: persil087_MeshPart0
+    2300740: persil087_MeshPart1
+    2300742: persil088_MeshPart0
+    2300744: persil088_MeshPart1
+    2300746: persil089_MeshPart0
+    2300748: persil089_MeshPart1
+    2300750: persil090_MeshPart0
+    2300752: persil090_MeshPart1
+    2300754: persil091_MeshPart0
+    2300756: persil091_MeshPart1
+    2300758: persil092_MeshPart0
+    2300760: persil092_MeshPart1
+    2300762: persil093_MeshPart0
+    2300764: persil093_MeshPart1
+    2300766: persil094_MeshPart0
+    2300768: persil094_MeshPart1
+    2300770: persil095_MeshPart0
+    2300772: persil095_MeshPart1
+    2300774: persil096_MeshPart0
+    2300776: persil096_MeshPart1
+    2300778: persil097_MeshPart0
+    2300780: persil097_MeshPart1
+    2300782: persil098_MeshPart0
+    2300784: persil098_MeshPart1
+    2300786: Sphere043
+    2300788: Sphere044
+    2300790: Sphere087
+    2300792: Sphere088
+    2300794: Sphere089
+    2300796: Sphere090
+    2300798: Sphere091
+    2300800: Sphere092
+    2300802: Sphere093
+    2300804: Sphere094
+    2300806: Sphere095
+    2300808: Sphere096
+    2300810: Sphere097
+    2300812: Sphere098
+    2300814: Sphere099
+    2300816: Sphere100
+    2300818: Sphere101
+    2300820: Sphere102
+    2300822: Sphere103
+    2300824: Sphere104
+    2300826: Sphere105
+    2300828: Sphere106
+    2300830: Sphere107
+    2300832: Sphere108
+    2300834: Sphere109
+    2300836: Sphere110
+    2300838: Sphere111
+    2300840: Sphere112
+    2300842: Sphere113
+    2300844: Sphere114
+    2300846: Sphere115
+    2300848: Sphere116
+    2300850: Sphere117
+    2300852: Sphere118
+    2300854: Sphere119
+    2300856: Sphere120
+    2300858: Sphere121
+    2300860: Sphere122
+    2300862: Sphere123
+    2300864: Sphere124
+    2300866: Sphere125
+    2300868: Sphere126
+    2300870: Sphere127
+    2300872: Sphere128
+    3300000: Ariel cleaner 031
+    3300002: Ariel cleaner 057
+    3300004: Ariel cleaner 189
+    3300006: Ariel cleaner 190
+    3300008: Ariel cleaner 191
+    3300010: Ariel cleaner 192
+    3300012: Ariel cleaner 193
+    3300014: Ariel cleaner 194
+    3300016: Ariel cleaner 195
+    3300018: Ariel cleaner 196
+    3300020: Ariel cleaner 197
+    3300022: Ariel cleaner 198
+    3300024: Ariel cleaner 199
+    3300026: Ariel cleaner 200
+    3300028: Ariel cleaner 201
+    3300030: Ariel cleaner 202
+    3300032: Ariel cleaner 203
+    3300034: Ariel cleaner 204
+    3300036: Ariel cleaner 205
+    3300038: Ariel cleaner 206
+    3300040: Ariel cleaner 207
+    3300042: Ariel cleaner 208
+    3300044: Ariel cleaner 209
+    3300046: Ariel cleaner 210
+    3300048: Ariel cleaner 211
+    3300050: Ariel cleaner 212
+    3300052: Ariel cleaner 213
+    3300054: Ariel cleaner 214
+    3300056: Ariel cleaner 215
+    3300058: Ariel cleaner 216
+    3300060: Ariel cleaner 217
+    3300062: Ariel cleaner 218
+    3300064: Ariel cleaner 219
+    3300066: Ariel cleaner 220
+    3300068: Ariel cleaner 221
+    3300070: Ariel cleaner 222
+    3300072: Ariel cleaner 223
+    3300074: Ariel cleaner 224
+    3300076: Ariel cleaner 225
+    3300078: Ariel cleaner 226
+    3300080: Ariel cleaner 227
+    3300082: Ariel cleaner 228
+    3300084: Ariel cleaner 229
+    3300086: Ariel cleaner 230
+    3300088: Ariel cleaner 231
+    3300090: Ariel cleaner 232
+    3300092: Ariel cleaner 233
+    3300094: Ariel cleaner 234
+    3300096: Ariel cleaner 235
+    3300098: Ariel cleaner 236
+    3300100: Ariel cleaner 237
+    3300102: Ariel cleaner 238
+    3300104: Ariel cleaner 239
+    3300106: Ariel cleaner 240
+    3300108: Ariel cleaner 241
+    3300110: Ariel cleaner 242
+    3300112: Ariel cleaner 243
+    3300114: Ariel cleaner 244
+    3300116: Ariel cleaner 245
+    3300118: Ariel cleaner 246
+    3300120: Ariel cleaner 247
+    3300122: Ariel cleaner 248
+    3300124: Ariel cleaner 249
+    3300126: Ariel cleaner 250
+    3300128: Ariel cleaner 251
+    3300130: Ariel cleaner 252
+    3300132: Ariel cleaner 253
+    3300134: Ariel cleaner 254
+    3300136: Ariel cleaner 255
+    3300138: Ariel cleaner 256
+    3300140: Ariel cleaner 257
+    3300142: Ariel cleaner 258
+    3300144: Ariel cleaner 259
+    3300146: Ariel cleaner 260
+    3300148: Ariel cleaner 261
+    3300150: Ariel cleaner 262
+    3300152: Ariel cleaner 263
+    3300154: Ariel cleaner 264
+    3300156: Ariel cleaner 265
+    3300158: Ariel cleaner 266
+    3300160: Box002
+    3300162: Box109
+    3300164: Box110
+    3300166: Box111
+    3300168: Box112
+    3300170: Box113
+    3300172: Box114
+    3300174: Box115
+    3300176: Box116
+    3300178: Box117
+    3300180: Box118
+    3300182: Box119
+    3300184: Box120
+    3300186: Box121
+    3300188: Box122
+    3300190: Box123
+    3300192: Box124
+    3300194: Box125
+    3300196: Box126
+    3300198: Box127
+    3300200: Box128
+    3300202: Box129
+    3300204: Box130
+    3300206: Box131
+    3300208: Box132
+    3300210: Box133
+    3300212: Box134
+    3300214: Box135
+    3300216: Box136
+    3300218: Box137
+    3300220: Box138
+    3300222: Box139
+    3300224: Box140
+    3300226: Box141
+    3300228: Box142
+    3300230: Box143
+    3300232: Box144
+    3300234: Box145
+    3300236: Box146
+    3300238: Box147
+    3300240: Box148
+    3300242: Box149
+    3300244: Box150
+    3300246: Box151
+    3300248: Box152
+    3300250: Box153
+    3300252: Box154
+    3300254: Box155
+    3300256: Box156
+    3300258: Box157
+    3300260: Box158
+    3300262: Box159
+    3300264: Box160
+    3300266: cleaner001
+    3300268: cleaner041
+    3300270: cleaner042
+    3300272: cleaner043
+    3300274: cleaner044
+    3300276: cleaner045
+    3300278: cleaner046
+    3300280: cleaner047
+    3300282: cleaner048
+    3300284: cleaner049
+    3300286: cleaner050
+    3300288: cleaner051
+    3300290: cleaner052
+    3300292: cleaner053
+    3300294: cleaner054
+    3300296: Cylinder044
+    3300298: Cylinder045
+    3300300: Cylinder088
+    3300302: Cylinder089
+    3300304: Cylinder090
+    3300306: Cylinder091
+    3300308: Cylinder092
+    3300310: Cylinder093
+    3300312: Cylinder094
+    3300314: Cylinder095
+    3300316: Cylinder096
+    3300318: Cylinder097
+    3300320: Cylinder098
+    3300322: Cylinder099
+    3300324: Cylinder100
+    3300326: Cylinder101
+    3300328: Cylinder102
+    3300330: Cylinder103
+    3300332: Cylinder104
+    3300334: Cylinder105
+    3300336: Cylinder106
+    3300338: Cylinder107
+    3300340: Cylinder108
+    3300342: Cylinder109
+    3300344: Cylinder110
+    3300346: Cylinder111
+    3300348: Cylinder112
+    3300350: Cylinder113
+    3300352: Cylinder114
+    3300354: Cylinder115
+    3300356: Cylinder116
+    3300358: Cylinder117
+    3300360: Cylinder118
+    3300362: Cylinder119
+    3300364: Cylinder120
+    3300366: Cylinder121
+    3300368: Cylinder122
+    3300370: Cylinder123
+    3300372: Cylinder124
+    3300374: Cylinder125
+    3300376: Cylinder126
+    3300378: Cylinder127
+    3300380: Cylinder128
+    3300382: Cylinder129
+    3300384: dettol p159
+    3300386: dettol p160
+    3300388: dettol p161
+    3300390: dettol p162
+    3300392: dettol p383
+    3300394: dettol p384
+    3300396: dettol p385
+    3300398: dettol p386
+    3300400: dettol p387
+    3300402: dettol p388
+    3300404: dettol p389
+    3300406: dettol p390
+    3300408: dettol p391
+    3300410: dettol p392
+    3300412: dettol p393
+    3300414: dettol p394
+    3300416: dettol p395
+    3300418: dettol p396
+    3300420: dettol p397
+    3300422: dettol p398
+    3300424: dettol p399
+    3300426: dettol p400
+    3300428: dettol p401
+    3300430: dettol p402
+    3300432: dettol p403
+    3300434: dettol p404
+    3300436: dettol p405
+    3300438: dettol p406
+    3300440: dettol p407
+    3300442: dettol p408
+    3300444: dettol p409
+    3300446: dettol p410
+    3300448: dettol p411
+    3300450: dettol p412
+    3300452: dettol p413
+    3300454: dettol p414
+    3300456: dettol p415
+    3300458: dettol p416
+    3300460: dettol p417
+    3300462: dettol p418
+    3300464: dettol p419
+    3300466: dettol p420
+    3300468: dettol p421
+    3300470: dettol p422
+    3300472: dettol p423
+    3300474: dettol p424
+    3300476: dettol p425
+    3300478: dettol p426
+    3300480: dettol p427
+    3300482: dettol p428
+    3300484: dettol p429
+    3300486: dettol p430
+    3300488: dettol p431
+    3300490: dettol p432
+    3300492: dettol p433
+    3300494: dettol p434
+    3300496: dettol p435
+    3300498: dettol p436
+    3300500: dettol p437
+    3300502: dettol p438
+    3300504: dettol p439
+    3300506: dettol p440
+    3300508: dettol p441
+    3300510: dettol p442
+    3300512: dettol p443
+    3300514: dettol p444
+    3300516: dettol p445
+    3300518: dettol p446
+    3300520: dettol p447
+    3300522: dettol p448
+    3300524: dettol p449
+    3300526: dettol p450
+    3300528: dettol p451
+    3300530: dettol p452
+    3300532: dettol p453
+    3300534: dettol p454
+    3300536: dettol p455
+    3300538: dettol p456
+    3300540: dettol p457
+    3300542: dettol p458
+    3300544: dettol p459
+    3300546: dettol p460
+    3300548: dettol p461
+    3300550: dettol p462
+    3300552: dettol p463
+    3300554: dettol p464
+    3300556: dettol p465
+    3300558: dettol p466
+    3300560: dettol p467
+    3300562: dettol p468
+    3300564: dettol p469
+    3300566: dettol p470
+    3300568: dettol p471
+    3300570: dettol p472
+    3300572: dettol p473
+    3300574: dettol p474
+    3300576: dettol p475
+    3300578: dettol p476
+    3300580: dettol p477
+    3300582: dettol p478
+    3300584: dettol p479
+    3300586: dettol p480
+    3300588: dettol p481
+    3300590: dettol p482
+    3300592: dettol p483
+    3300594: dettol p484
+    3300596: dettol p485
+    3300598: dettol p486
+    3300600: dettol p487
+    3300602: dettol p488
+    3300604: dettol p489
+    3300606: dettol p490
+    3300608: dettol p491
+    3300610: dettol p492
+    3300612: dettol p493
+    3300614: dettol p494
+    3300616: dettol p495
+    3300618: dettol p496
+    3300620: dettol p497
+    3300622: dettol p498
+    3300624: dettol p499
+    3300626: dettol p500
+    3300628: dettol p501
+    3300630: dettol p502
+    3300632: dettol p503
+    3300634: dettol p504
+    3300636: dettol p505
+    3300638: dettol p506
+    3300640: dettol p507
+    3300642: dettol p508
+    3300644: dettol p509
+    3300646: dettol p510
+    3300648: Object001
+    3300650: Object022
+    3300652: Object023
+    3300654: Object024
+    3300656: Object025
+    3300658: Object026
+    3300660: Object027
+    3300662: Object028
+    3300664: Object029
+    3300666: Object030
+    3300668: Object031
+    3300670: persil026_MeshPart0
+    3300672: persil026_MeshPart1
+    3300674: persil071_MeshPart0
+    3300676: persil071_MeshPart1
+    3300678: persil072_MeshPart0
+    3300680: persil072_MeshPart1
+    3300682: persil073_MeshPart0
+    3300684: persil073_MeshPart1
+    3300686: persil074_MeshPart0
+    3300688: persil074_MeshPart1
+    3300690: persil075_MeshPart0
+    3300692: persil075_MeshPart1
+    3300694: persil076_MeshPart0
+    3300696: persil076_MeshPart1
+    3300698: persil077_MeshPart0
+    3300700: persil077_MeshPart1
+    3300702: persil078_MeshPart0
+    3300704: persil078_MeshPart1
+    3300706: persil079_MeshPart0
+    3300708: persil079_MeshPart1
+    3300710: persil080_MeshPart0
+    3300712: persil080_MeshPart1
+    3300714: persil081_MeshPart0
+    3300716: persil081_MeshPart1
+    3300718: persil082_MeshPart0
+    3300720: persil082_MeshPart1
+    3300722: persil083_MeshPart0
+    3300724: persil083_MeshPart1
+    3300726: persil084_MeshPart0
+    3300728: persil084_MeshPart1
+    3300730: persil085_MeshPart0
+    3300732: persil085_MeshPart1
+    3300734: persil086_MeshPart0
+    3300736: persil086_MeshPart1
+    3300738: persil087_MeshPart0
+    3300740: persil087_MeshPart1
+    3300742: persil088_MeshPart0
+    3300744: persil088_MeshPart1
+    3300746: persil089_MeshPart0
+    3300748: persil089_MeshPart1
+    3300750: persil090_MeshPart0
+    3300752: persil090_MeshPart1
+    3300754: persil091_MeshPart0
+    3300756: persil091_MeshPart1
+    3300758: persil092_MeshPart0
+    3300760: persil092_MeshPart1
+    3300762: persil093_MeshPart0
+    3300764: persil093_MeshPart1
+    3300766: persil094_MeshPart0
+    3300768: persil094_MeshPart1
+    3300770: persil095_MeshPart0
+    3300772: persil095_MeshPart1
+    3300774: persil096_MeshPart0
+    3300776: persil096_MeshPart1
+    3300778: persil097_MeshPart0
+    3300780: persil097_MeshPart1
+    3300782: persil098_MeshPart0
+    3300784: persil098_MeshPart1
+    3300786: Sphere043
+    3300788: Sphere044
+    3300790: Sphere087
+    3300792: Sphere088
+    3300794: Sphere089
+    3300796: Sphere090
+    3300798: Sphere091
+    3300800: Sphere092
+    3300802: Sphere093
+    3300804: Sphere094
+    3300806: Sphere095
+    3300808: Sphere096
+    3300810: Sphere097
+    3300812: Sphere098
+    3300814: Sphere099
+    3300816: Sphere100
+    3300818: Sphere101
+    3300820: Sphere102
+    3300822: Sphere103
+    3300824: Sphere104
+    3300826: Sphere105
+    3300828: Sphere106
+    3300830: Sphere107
+    3300832: Sphere108
+    3300834: Sphere109
+    3300836: Sphere110
+    3300838: Sphere111
+    3300840: Sphere112
+    3300842: Sphere113
+    3300844: Sphere114
+    3300846: Sphere115
+    3300848: Sphere116
+    3300850: Sphere117
+    3300852: Sphere118
+    3300854: Sphere119
+    3300856: Sphere120
+    3300858: Sphere121
+    3300860: Sphere122
+    3300862: Sphere123
+    3300864: Sphere124
+    3300866: Sphere125
+    3300868: Sphere126
+    3300870: Sphere127
+    3300872: Sphere128
+    4300000: cleaner001
+    4300002: Ariel cleaner 031
+    4300004: persil026_MeshPart0
+    4300006: persil026_MeshPart1
+    4300008: Object001
+    4300010: Box002
+    4300012: dettol p159
+    4300014: dettol p160
+    4300016: dettol p161
+    4300018: dettol p162
+    4300020: Ariel cleaner 057
+    4300022: Sphere043
+    4300024: Cylinder044
+    4300026: Cylinder045
+    4300028: Sphere044
+    4300030: cleaner041
+    4300032: Ariel cleaner 189
+    4300034: persil071_MeshPart0
+    4300036: persil071_MeshPart1
+    4300038: persil072_MeshPart0
+    4300040: persil072_MeshPart1
+    4300042: persil073_MeshPart0
+    4300044: persil073_MeshPart1
+    4300046: persil074_MeshPart0
+    4300048: persil074_MeshPart1
+    4300050: persil075_MeshPart0
+    4300052: persil075_MeshPart1
+    4300054: persil076_MeshPart0
+    4300056: persil076_MeshPart1
+    4300058: persil077_MeshPart0
+    4300060: persil077_MeshPart1
+    4300062: persil078_MeshPart0
+    4300064: persil078_MeshPart1
+    4300066: persil079_MeshPart0
+    4300068: persil079_MeshPart1
+    4300070: persil080_MeshPart0
+    4300072: persil080_MeshPart1
+    4300074: persil081_MeshPart0
+    4300076: persil081_MeshPart1
+    4300078: persil082_MeshPart0
+    4300080: persil082_MeshPart1
+    4300082: persil083_MeshPart0
+    4300084: persil083_MeshPart1
+    4300086: persil084_MeshPart0
+    4300088: persil084_MeshPart1
+    4300090: Ariel cleaner 190
+    4300092: Ariel cleaner 191
+    4300094: Ariel cleaner 192
+    4300096: Ariel cleaner 193
+    4300098: Ariel cleaner 194
+    4300100: Ariel cleaner 195
+    4300102: Ariel cleaner 196
+    4300104: Ariel cleaner 197
+    4300106: Ariel cleaner 198
+    4300108: Ariel cleaner 199
+    4300110: Ariel cleaner 200
+    4300112: Ariel cleaner 201
+    4300114: Ariel cleaner 202
+    4300116: Ariel cleaner 203
+    4300118: Ariel cleaner 204
+    4300120: Ariel cleaner 205
+    4300122: Ariel cleaner 206
+    4300124: Ariel cleaner 207
+    4300126: Ariel cleaner 208
+    4300128: Ariel cleaner 209
+    4300130: Ariel cleaner 210
+    4300132: Ariel cleaner 211
+    4300134: Ariel cleaner 212
+    4300136: Ariel cleaner 213
+    4300138: Ariel cleaner 214
+    4300140: Ariel cleaner 215
+    4300142: Ariel cleaner 216
+    4300144: Ariel cleaner 217
+    4300146: Ariel cleaner 218
+    4300148: Ariel cleaner 219
+    4300150: persil085_MeshPart0
+    4300152: persil085_MeshPart1
+    4300154: persil086_MeshPart0
+    4300156: persil086_MeshPart1
+    4300158: Ariel cleaner 220
+    4300160: Ariel cleaner 221
+    4300162: Ariel cleaner 222
+    4300164: Ariel cleaner 223
+    4300166: Ariel cleaner 224
+    4300168: Ariel cleaner 225
+    4300170: Ariel cleaner 226
+    4300172: Ariel cleaner 227
+    4300174: Ariel cleaner 228
+    4300176: Ariel cleaner 229
+    4300178: Ariel cleaner 230
+    4300180: Ariel cleaner 231
+    4300182: Ariel cleaner 232
+    4300184: Ariel cleaner 233
+    4300186: Ariel cleaner 234
+    4300188: Ariel cleaner 235
+    4300190: Ariel cleaner 236
+    4300192: Ariel cleaner 237
+    4300194: Ariel cleaner 238
+    4300196: Ariel cleaner 239
+    4300198: Ariel cleaner 240
+    4300200: Ariel cleaner 241
+    4300202: Ariel cleaner 242
+    4300204: Ariel cleaner 243
+    4300206: Ariel cleaner 244
+    4300208: persil087_MeshPart0
+    4300210: persil087_MeshPart1
+    4300212: persil088_MeshPart0
+    4300214: persil088_MeshPart1
+    4300216: persil089_MeshPart0
+    4300218: persil089_MeshPart1
+    4300220: persil090_MeshPart0
+    4300222: persil090_MeshPart1
+    4300224: persil091_MeshPart0
+    4300226: persil091_MeshPart1
+    4300228: persil092_MeshPart0
+    4300230: persil092_MeshPart1
+    4300232: persil093_MeshPart0
+    4300234: persil093_MeshPart1
+    4300236: persil094_MeshPart0
+    4300238: persil094_MeshPart1
+    4300240: persil095_MeshPart0
+    4300242: persil095_MeshPart1
+    4300244: persil096_MeshPart0
+    4300246: persil096_MeshPart1
+    4300248: persil097_MeshPart0
+    4300250: persil097_MeshPart1
+    4300252: persil098_MeshPart0
+    4300254: persil098_MeshPart1
+    4300256: Ariel cleaner 245
+    4300258: Ariel cleaner 246
+    4300260: Ariel cleaner 247
+    4300262: Ariel cleaner 248
+    4300264: Ariel cleaner 249
+    4300266: Ariel cleaner 250
+    4300268: Ariel cleaner 251
+    4300270: Ariel cleaner 252
+    4300272: Ariel cleaner 253
+    4300274: Ariel cleaner 254
+    4300276: Ariel cleaner 255
+    4300278: Ariel cleaner 256
+    4300280: Ariel cleaner 257
+    4300282: Ariel cleaner 258
+    4300284: Ariel cleaner 259
+    4300286: Ariel cleaner 260
+    4300288: Ariel cleaner 261
+    4300290: Ariel cleaner 262
+    4300292: Ariel cleaner 263
+    4300294: Ariel cleaner 264
+    4300296: Ariel cleaner 265
+    4300298: cleaner042
+    4300300: cleaner043
+    4300302: cleaner044
+    4300304: cleaner045
+    4300306: cleaner046
+    4300308: cleaner047
+    4300310: cleaner048
+    4300312: cleaner049
+    4300314: cleaner050
+    4300316: cleaner051
+    4300318: cleaner052
+    4300320: cleaner053
+    4300322: cleaner054
+    4300324: Ariel cleaner 266
+    4300326: dettol p383
+    4300328: dettol p386
+    4300330: dettol p387
+    4300332: dettol p479
+    4300334: dettol p384
+    4300336: dettol p461
+    4300338: dettol p498
+    4300340: dettol p510
+    4300342: dettol p385
+    4300344: dettol p388
+    4300346: dettol p389
+    4300348: dettol p478
+    4300350: Box109
+    4300352: Box110
+    4300354: Box111
+    4300356: Box112
+    4300358: Box113
+    4300360: Box114
+    4300362: Box115
+    4300364: Box116
+    4300366: Box117
+    4300368: Box118
+    4300370: Box119
+    4300372: Box120
+    4300374: Box121
+    4300376: Box122
+    4300378: Box123
+    4300380: Box124
+    4300382: Box125
+    4300384: Box126
+    4300386: Box127
+    4300388: Box128
+    4300390: Box129
+    4300392: Box130
+    4300394: Box131
+    4300396: Box132
+    4300398: Box133
+    4300400: Box134
+    4300402: Box135
+    4300404: Box136
+    4300406: Box137
+    4300408: Box138
+    4300410: Box139
+    4300412: Box140
+    4300414: Box141
+    4300416: Box142
+    4300418: Box143
+    4300420: Box144
+    4300422: Box145
+    4300424: Box146
+    4300426: Box147
+    4300428: Box148
+    4300430: Box149
+    4300432: Box150
+    4300434: Sphere087
+    4300436: Sphere126
+    4300438: Cylinder089
+    4300440: Cylinder090
+    4300442: Sphere088
+    4300444: Sphere128
+    4300446: Cylinder091
+    4300448: Cylinder092
+    4300450: Sphere089
+    4300452: Sphere108
+    4300454: Cylinder093
+    4300456: Cylinder094
+    4300458: dettol p390
+    4300460: dettol p420
+    4300462: dettol p422
+    4300464: dettol p501
+    4300466: dettol p391
+    4300468: dettol p392
+    4300470: dettol p406
+    4300472: dettol p485
+    4300474: dettol p393
+    4300476: dettol p424
+    4300478: dettol p425
+    4300480: dettol p481
+    4300482: dettol p394
+    4300484: dettol p395
+    4300486: dettol p396
+    4300488: dettol p482
+    4300490: dettol p397
+    4300492: dettol p398
+    4300494: dettol p399
+    4300496: dettol p480
+    4300498: dettol p400
+    4300500: dettol p401
+    4300502: dettol p402
+    4300504: dettol p490
+    4300506: dettol p403
+    4300508: dettol p407
+    4300510: dettol p408
+    4300512: dettol p496
+    4300514: dettol p404
+    4300516: dettol p405
+    4300518: dettol p444
+    4300520: dettol p492
+    4300522: dettol p409
+    4300524: dettol p415
+    4300526: dettol p426
+    4300528: dettol p502
+    4300530: dettol p410
+    4300532: dettol p413
+    4300534: dettol p427
+    4300536: dettol p497
+    4300538: dettol p411
+    4300540: dettol p412
+    4300542: dettol p414
+    4300544: dettol p483
+    4300546: dettol p416
+    4300548: dettol p417
+    4300550: dettol p418
+    4300552: dettol p484
+    4300554: dettol p419
+    4300556: dettol p421
+    4300558: dettol p423
+    4300560: dettol p500
+    4300562: dettol p428
+    4300564: dettol p429
+    4300566: dettol p434
+    4300568: dettol p493
+    4300570: dettol p430
+    4300572: dettol p431
+    4300574: dettol p435
+    4300576: dettol p488
+    4300578: Box151
+    4300580: Object023
+    4300582: Object022
+    4300584: Box152
+    4300586: Object024
+    4300588: Box156
+    4300590: Box153
+    4300592: Object026
+    4300594: Box154
+    4300596: Object027
+    4300598: Box155
+    4300600: Object025
+    4300602: dettol p436
+    4300604: dettol p437
+    4300606: dettol p438
+    4300608: dettol p486
+    4300610: dettol p445
+    4300612: dettol p446
+    4300614: dettol p447
+    4300616: dettol p487
+    4300618: Sphere097
+    4300620: Sphere109
+    4300622: Cylinder108
+    4300624: Cylinder109
+    4300626: Box157
+    4300628: Object028
+    4300630: dettol p455
+    4300632: dettol p456
+    4300634: dettol p457
+    4300636: dettol p489
+    4300638: Object029
+    4300640: Box159
+    4300642: Box158
+    4300644: Object031
+    4300646: Object030
+    4300648: Box160
+    4300650: dettol p450
+    4300652: dettol p452
+    4300654: dettol p454
+    4300656: dettol p491
+    4300658: dettol p448
+    4300660: dettol p458
+    4300662: dettol p459
+    4300664: dettol p494
+    4300666: dettol p451
+    4300668: dettol p453
+    4300670: dettol p460
+    4300672: dettol p495
+    4300674: dettol p433
+    4300676: dettol p449
+    4300678: dettol p475
+    4300680: dettol p499
+    4300682: dettol p465
+    4300684: dettol p466
+    4300686: dettol p467
+    4300688: dettol p503
+    4300690: dettol p468
+    4300692: dettol p469
+    4300694: dettol p470
+    4300696: dettol p504
+    4300698: dettol p462
+    4300700: dettol p463
+    4300702: dettol p464
+    4300704: dettol p505
+    4300706: dettol p439
+    4300708: dettol p440
+    4300710: dettol p441
+    4300712: dettol p506
+    4300714: dettol p432
+    4300716: dettol p442
+    4300718: dettol p443
+    4300720: dettol p507
+    4300722: dettol p471
+    4300724: dettol p472
+    4300726: dettol p473
+    4300728: dettol p508
+    4300730: dettol p474
+    4300732: dettol p476
+    4300734: dettol p477
+    4300736: dettol p509
+    4300738: Sphere092
+    4300740: Sphere110
+    4300742: Cylinder099
+    4300744: Cylinder100
+    4300746: Sphere091
+    4300748: Sphere111
+    4300750: Cylinder097
+    4300752: Cylinder098
+    4300754: Sphere093
+    4300756: Sphere112
+    4300758: Cylinder101
+    4300760: Cylinder102
+    4300762: Sphere094
+    4300764: Sphere113
+    4300766: Cylinder103
+    4300768: Cylinder104
+    4300770: Sphere095
+    4300772: Sphere114
+    4300774: Cylinder105
+    4300776: Cylinder106
+    4300778: Cylinder088
+    4300780: Sphere096
+    4300782: Sphere115
+    4300784: Cylinder107
+    4300786: Sphere090
+    4300788: Sphere116
+    4300790: Cylinder095
+    4300792: Cylinder096
+    4300794: Sphere098
+    4300796: Sphere117
+    4300798: Cylinder110
+    4300800: Cylinder111
+    4300802: Sphere099
+    4300804: Sphere118
+    4300806: Cylinder112
+    4300808: Cylinder113
+    4300810: Sphere100
+    4300812: Sphere119
+    4300814: Cylinder114
+    4300816: Cylinder115
+    4300818: Sphere101
+    4300820: Sphere120
+    4300822: Cylinder116
+    4300824: Cylinder117
+    4300826: Sphere102
+    4300828: Sphere121
+    4300830: Cylinder118
+    4300832: Cylinder119
+    4300834: Sphere103
+    4300836: Sphere122
+    4300838: Cylinder120
+    4300840: Cylinder121
+    4300842: Sphere104
+    4300844: Sphere123
+    4300846: Cylinder122
+    4300848: Cylinder123
+    4300850: Sphere105
+    4300852: Sphere124
+    4300854: Cylinder124
+    4300856: Cylinder125
+    4300858: Sphere106
+    4300860: Sphere125
+    4300862: Cylinder126
+    4300864: Cylinder127
+    4300866: Sphere107
+    4300868: Sphere127
+    4300870: Cylinder128
+    4300872: Cylinder129
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #112'
+    second: {fileID: 2100000, guid: afc0be067ee2d4117a4ee5821ebdc115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13'
+    second: {fileID: 2100000, guid: 7db63c85ba26446c2aeb20e7735c9462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #135'
+    second: {fileID: 2100000, guid: f2244fe2dfb1a4c97a21cf5c60c8c080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1367'
+    second: {fileID: 2100000, guid: e7f1a05dfab6842f4ad86ed8c0da9b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #18'
+    second: {fileID: 2100000, guid: b9535c49cdb03437296c80f7ca934f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arial
+    second: {fileID: 2100000, guid: 1750374caf7414c3d8212c19603c9bed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arial2
+    second: {fileID: 2100000, guid: 9c25eadcb49194b1bab98430045f6cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dettol p1_
+    second: {fileID: 2100000, guid: ba980d3d26d8b462989c3c262a5b1d40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dettol p2
+    second: {fileID: 2100000, guid: 6b8935191bd5e476fad445e0d670ab37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dettol p3
+    second: {fileID: 2100000, guid: 82ec5cf49b250446fb3cbaec10bbb1d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dettol p4
+    second: {fileID: 2100000, guid: 18ebb2e4594134d7d9e58db9baca576c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dettol p5
+    second: {fileID: 2100000, guid: a604bb6c1241d484591a8544c3ba13b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ecover
+    second: {fileID: 2100000, guid: 0a13ab464ae92453fa758eebc1338d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: c77be791bfacc4dd08c19d87d5fc96f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: persil
+    second: {fileID: 2100000, guid: fdb7fea31d5db40a1ae9c574dfdf8697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s1
+    second: {fileID: 2100000, guid: 042a68bc8f76549bf9fd8d87051d679c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spray
+    second: {fileID: 2100000, guid: 4342caec4f05447b4addac01e9387f5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel
+    second: {fileID: 2100000, guid: 8432bb38b350f4a9bb595c3853fec9c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steel2
+    second: {fileID: 2100000, guid: 028f0881c87fe4123aafe22a88bb07b0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
